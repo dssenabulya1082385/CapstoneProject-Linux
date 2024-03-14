@@ -1,0 +1,2 @@
+#installing SSH server on AlmaLinux
+sudo dnf install openssh
